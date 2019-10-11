@@ -12,6 +12,11 @@ The Japan tableau workbook can be seen here
 https://public.tableau.com/profile/gabriel.hernandez8655#!/vizhome/Japanesecitiesfirebombed/JapaneseCities
 
 
+
+![Alt text](images/japan.PNG?raw=true "Optional Title")
+
+
+
 ---------------------------------------------------------------------------------------------
 
 
@@ -19,3 +24,6 @@ and Germany here.
 
 
 https://public.tableau.com/profile/gabriel.hernandez8655#!/vizhome/FirebombedGermanCitiesofWW2/FirebombedGermanCities
+
+
+![Alt text](images/germany.PNG?raw=true "Optional Title")
