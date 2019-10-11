@@ -7,4 +7,9 @@ The data is then put in CSV's and used for further exploration in tableau.
 
 
 The Tableau visualization can be viewed here. 
+Japan
 https://public.tableau.com/views/Japanesecitiesfirebombed/JapaneseCities?:embed=y&:display_count=yes&:origin=viz_share_link
+------------------------------------------------------------------------------------------------------------------------
+
+Germany
+https://public.tableau.com/profile/gabriel.hernandez8655#!/vizhome/FirebombedGermanCitiesofWW2/FirebombedGermanCities
